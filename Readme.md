@@ -25,7 +25,7 @@ NFT Messenger is a decentralized messaging application that leverages the power 
 
 This project is built with a modern technology stack:
 
-- **Frontend**: React, TypeScript, Vite, Tailwind CSS, ethers.js, wagmi
+- **Frontend**: React, TypeScript, Vite, Tailwind CSS, ethers.js
 - **Backend**: Node.js, Express, TypeScript, IPFS
 - **Blockchain**: Solidity, Hardhat, Ethereum
 
@@ -87,4 +87,3 @@ The backend server will start on `http://localhost:3000`.
 ## Contracts
 
 The Solidity smart contracts are located in the `contracts` directory. You can deploy and interact with them using a development environment like Hardhat.
-
